@@ -1,0 +1,14 @@
+Dưới đây là 1 số thông tin mọi người cần nắm để dự án của tụi mình được đồng bộ với nhau. Mọi người đọc kĩ có vấn đề gì cần góp ý hoặc chưa hiểu có thể inbox trực tiếp tôi để hỗ trợ nhé.
+
+Tên team : Gradient Team
+Dự án : Quản lý cửa hàng giày Sneaker (Rekaens Store)
+
+Về màu sắc trong dự án :
+Mọi người dùng Gradient thì sử dụng : Start : [100,232,222] và End [138,100,235]
+Tone màu chủ yếu của mình là màu Xanh da trời hoặc xanh Blue
+Logo :
+ 
+Hoặc tại Icons 8Pichon về kiếm từ khóa “sneaker” là ra
+
+Dự án của các thành viên sẽ up lên Github với đường link dưới đây :
+https://github.com/lisengg/Duan1.git
