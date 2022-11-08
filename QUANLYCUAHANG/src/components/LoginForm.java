@@ -224,7 +224,8 @@ public class LoginForm extends javax.swing.JFrame {
         String user = "admin";
         String pass = "123";
         if (user.equals(txtUser.getText()) && pass.equals(new String(txtPass.getPassword()))) {
-            
+            this.dispose();
+           
         } else {
             lblKhongDung.setForeground(Color.red);
         }
